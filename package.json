@@ -9,6 +9,7 @@
     "lint": "eslint",
     "test": "vitest run",
     "db:push": "prisma db push --skip-generate",
+    "db:push:turso": "tsx scripts/setup-turso.ts",
     "db:seed": "tsx prisma/seed.ts",
     "db:setup": "prisma generate && prisma db push --skip-generate && tsx prisma/seed.ts",
     "postinstall": "prisma generate"
