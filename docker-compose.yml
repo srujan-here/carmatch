@@ -1,0 +1,9 @@
+services:
+  carmatch:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: "file:./dev.db"
+      # Optional — enables the hybrid AI layer:
+      # ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY}"

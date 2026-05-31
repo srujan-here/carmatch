@@ -1,0 +1,345 @@
+[
+  {
+    "make": "Maruti Suzuki", "model": "Alto K10", "variant": "VXI", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 520000, "mileageKmpl": 24.9,
+    "seating": 5, "safetyRating": 2, "powerBhp": 65, "bootLitres": 214, "year": 2024,
+    "features": ["Touchscreen infotainment", "Dual airbags", "ABS", "Power steering"],
+    "summary": "India's most affordable proper hatchback — cheap to buy and run, ideal for a first car."
+  },
+  {
+    "make": "Renault", "model": "Kwid", "variant": "RXT", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 540000, "mileageKmpl": 22.3,
+    "seating": 5, "safetyRating": 1, "powerBhp": 67, "bootLitres": 279, "year": 2024,
+    "features": ["8-inch touchscreen", "Dual airbags", "Reverse camera", "Digital cluster"],
+    "summary": "SUV-styled entry hatch with a surprisingly large boot for the segment."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "WagonR", "variant": "ZXI", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 640000, "mileageKmpl": 25.2,
+    "seating": 5, "safetyRating": 2, "powerBhp": 88, "bootLitres": 341, "year": 2024,
+    "features": ["Touchscreen", "Dual airbags", "Tall-boy cabin", "Steering controls"],
+    "summary": "Tall-boy practicality and class-leading space; a no-fuss family runabout."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "WagonR", "variant": "ZXI CNG", "bodyType": "hatchback",
+    "fuelType": "cng", "transmission": "manual", "priceInr": 730000, "mileageKmpl": 34.0,
+    "seating": 5, "safetyRating": 2, "powerBhp": 77, "bootLitres": 341, "year": 2024,
+    "features": ["Factory CNG", "Touchscreen", "Dual airbags", "Steering controls"],
+    "summary": "Factory-fitted CNG keeps running costs rock-bottom for high-mileage city users."
+  },
+  {
+    "make": "Hyundai", "model": "Grand i10 Nios", "variant": "Sportz", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 730000, "mileageKmpl": 20.7,
+    "seating": 5, "safetyRating": 3, "powerBhp": 82, "bootLitres": 260, "year": 2024,
+    "features": ["8-inch touchscreen", "Wireless CarPlay", "Dual airbags", "Rear AC vents"],
+    "summary": "Refined, well-equipped small hatch with a premium feel for the price."
+  },
+  {
+    "make": "Tata", "model": "Tiago", "variant": "XZ+", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 750000, "mileageKmpl": 19.0,
+    "seating": 5, "safetyRating": 4, "powerBhp": 85, "bootLitres": 242, "year": 2024,
+    "features": ["7-inch touchscreen", "Dual airbags", "4-star safety", "Harman audio"],
+    "summary": "The safest car in the entry-hatch class, with a solid 4-star Global NCAP build."
+  },
+  {
+    "make": "Tata", "model": "Tiago", "variant": "XZ+ EV", "bodyType": "hatchback",
+    "fuelType": "electric", "transmission": "automatic", "priceInr": 1200000, "mileageKmpl": 30.0,
+    "seating": 5, "safetyRating": 4, "powerBhp": 74, "bootLitres": 240, "year": 2024,
+    "features": ["315 km range", "Fast charging", "Dual airbags", "Touchscreen"],
+    "summary": "India's most affordable EV — near-zero running cost for predictable city commutes."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Swift", "variant": "ZXI+", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 850000, "mileageKmpl": 24.8,
+    "seating": 5, "safetyRating": 3, "powerBhp": 81, "bootLitres": 265, "year": 2024,
+    "features": ["9-inch touchscreen", "6 airbags", "Cruise control", "Wireless charging"],
+    "summary": "The fun-to-drive evergreen hatch — light, frugal and easy to live with."
+  },
+  {
+    "make": "Tata", "model": "Altroz", "variant": "XZ+", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 920000, "mileageKmpl": 19.3,
+    "seating": 5, "safetyRating": 5, "powerBhp": 88, "bootLitres": 345, "year": 2024,
+    "features": ["5-star safety", "7-inch touchscreen", "Dual airbags", "Premium build"],
+    "summary": "Premium hatch with a 5-star Global NCAP rating — the safety benchmark of its class."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Baleno", "variant": "Alpha", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1000000, "mileageKmpl": 22.9,
+    "seating": 5, "safetyRating": 3, "powerBhp": 89, "bootLitres": 318, "year": 2024,
+    "features": ["9-inch touchscreen", "6 airbags", "360 camera", "Head-up display"],
+    "summary": "Spacious, feature-rich premium hatch with an efficient automatic option."
+  },
+  {
+    "make": "Hyundai", "model": "i20", "variant": "Asta (O)", "bodyType": "hatchback",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1100000, "mileageKmpl": 20.0,
+    "seating": 5, "safetyRating": 3, "powerBhp": 118, "bootLitres": 311, "year": 2024,
+    "features": ["10.25-inch touchscreen", "6 airbags", "Bose audio", "Sunroof"],
+    "summary": "The premium hatch benchmark — turbo-ready, loaded with tech, mature to drive."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Dzire", "variant": "ZXI+", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 980000, "mileageKmpl": 24.1,
+    "seating": 5, "safetyRating": 5, "powerBhp": 81, "bootLitres": 382, "year": 2024,
+    "features": ["5-star safety", "9-inch touchscreen", "6 airbags", "Sunroof"],
+    "summary": "Frugal compact sedan now with a 5-star rating — a sensible value family car."
+  },
+  {
+    "make": "Honda", "model": "Amaze", "variant": "VX", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 1000000, "mileageKmpl": 18.6,
+    "seating": 5, "safetyRating": 4, "powerBhp": 89, "bootLitres": 416, "year": 2024,
+    "features": ["8-inch touchscreen", "6 airbags", "Lane Watch camera", "Big boot"],
+    "summary": "Roomy, dependable compact sedan with Honda refinement and a huge boot."
+  },
+  {
+    "make": "Hyundai", "model": "Aura", "variant": "SX CNG", "bodyType": "sedan",
+    "fuelType": "cng", "transmission": "manual", "priceInr": 950000, "mileageKmpl": 28.0,
+    "seating": 5, "safetyRating": 3, "powerBhp": 68, "bootLitres": 402, "year": 2024,
+    "features": ["Factory CNG", "8-inch touchscreen", "Dual airbags", "Wireless charging"],
+    "summary": "Compact sedan with factory CNG — low running cost plus a proper boot."
+  },
+  {
+    "make": "Honda", "model": "City", "variant": "ZX", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1600000, "mileageKmpl": 18.4,
+    "seating": 5, "safetyRating": 5, "powerBhp": 119, "bootLitres": 506, "year": 2024,
+    "features": ["5-star safety", "ADAS Honda Sensing", "8-inch touchscreen", "Sunroof"],
+    "summary": "The benchmark mid-size sedan — refined, spacious and now with ADAS."
+  },
+  {
+    "make": "Honda", "model": "City", "variant": "e:HEV ZX", "bodyType": "sedan",
+    "fuelType": "hybrid", "transmission": "automatic", "priceInr": 2100000, "mileageKmpl": 26.5,
+    "seating": 5, "safetyRating": 5, "powerBhp": 124, "bootLitres": 506, "year": 2024,
+    "features": ["Strong hybrid", "ADAS", "5-star safety", "Premium cabin"],
+    "summary": "Strong-hybrid sedan that drives like an EV in the city with no range anxiety."
+  },
+  {
+    "make": "Hyundai", "model": "Verna", "variant": "SX(O) Turbo", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1750000, "mileageKmpl": 20.0,
+    "seating": 5, "safetyRating": 5, "powerBhp": 158, "bootLitres": 528, "year": 2024,
+    "features": ["5-star safety", "ADAS", "Ventilated seats", "Dual 10.25-inch screens"],
+    "summary": "Feature-loaded, turbocharged sedan — the most powerful and high-tech in its class."
+  },
+  {
+    "make": "Skoda", "model": "Slavia", "variant": "Style 1.5 TSI", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1900000, "mileageKmpl": 18.7,
+    "seating": 5, "safetyRating": 5, "powerBhp": 148, "bootLitres": 521, "year": 2024,
+    "features": ["5-star safety", "Ventilated seats", "Sunroof", "Strong build"],
+    "summary": "European-built sedan with a punchy 1.5 TSI and a rock-solid 5-star body."
+  },
+  {
+    "make": "Volkswagen", "model": "Virtus", "variant": "GT Plus", "bodyType": "sedan",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1950000, "mileageKmpl": 18.7,
+    "seating": 5, "safetyRating": 5, "powerBhp": 148, "bootLitres": 521, "year": 2024,
+    "features": ["5-star safety", "Digital cockpit", "Sunroof", "Sporty GT tune"],
+    "summary": "The enthusiast's sedan — German dynamics, 5-star safety and a willing turbo."
+  },
+  {
+    "make": "Tata", "model": "Punch", "variant": "Creative", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 900000, "mileageKmpl": 18.8,
+    "seating": 5, "safetyRating": 5, "powerBhp": 88, "bootLitres": 366, "year": 2024,
+    "features": ["5-star safety", "7-inch touchscreen", "High ground clearance", "Sunroof"],
+    "summary": "Micro-SUV with a 5-star rating and high stance — confident in city and bad roads."
+  },
+  {
+    "make": "Tata", "model": "Punch", "variant": "EV Empowered+", "bodyType": "suv",
+    "fuelType": "electric", "transmission": "automatic", "priceInr": 1400000, "mileageKmpl": 28.0,
+    "seating": 5, "safetyRating": 5, "powerBhp": 122, "bootLitres": 366, "year": 2024,
+    "features": ["421 km range", "5-star safety", "Fast charging", "Sunroof"],
+    "summary": "5-star micro-SUV EV with real-world range that finally suits small families."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Fronx", "variant": "Alpha Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1250000, "mileageKmpl": 20.0,
+    "seating": 5, "safetyRating": 3, "powerBhp": 99, "bootLitres": 308, "year": 2024,
+    "features": ["9-inch touchscreen", "6 airbags", "360 camera", "Head-up display"],
+    "summary": "Crossover-coupe styling on a frugal turbo — sporty yet easy on fuel."
+  },
+  {
+    "make": "Tata", "model": "Nexon", "variant": "Fearless+", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1400000, "mileageKmpl": 17.4,
+    "seating": 5, "safetyRating": 5, "powerBhp": 118, "bootLitres": 382, "year": 2024,
+    "features": ["5-star safety", "12.3-inch screen", "JBL audio", "Sunroof"],
+    "summary": "Best-selling compact SUV — 5-star safety, bold design and a turbo-petrol DCT."
+  },
+  {
+    "make": "Tata", "model": "Nexon", "variant": "EV Empowered", "bodyType": "suv",
+    "fuelType": "electric", "transmission": "automatic", "priceInr": 1700000, "mileageKmpl": 30.0,
+    "seating": 5, "safetyRating": 5, "powerBhp": 142, "bootLitres": 350, "year": 2024,
+    "features": ["489 km range", "5-star safety", "V2L charging", "ADAS-lite"],
+    "summary": "India's best-selling EV — long range, quick, and very cheap to run daily."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Brezza", "variant": "ZXI+", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1350000, "mileageKmpl": 19.8,
+    "seating": 5, "safetyRating": 3, "powerBhp": 101, "bootLitres": 328, "year": 2024,
+    "features": ["9-inch touchscreen", "6 airbags", "Sunroof", "360 camera"],
+    "summary": "Practical, reliable compact SUV with strong resale and low running costs."
+  },
+  {
+    "make": "Hyundai", "model": "Venue", "variant": "SX(O) Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1400000, "mileageKmpl": 18.1,
+    "seating": 5, "safetyRating": 4, "powerBhp": 118, "bootLitres": 350, "year": 2024,
+    "features": ["8-inch touchscreen", "6 airbags", "Sunroof", "Ventilated seats"],
+    "summary": "Feature-rich compact SUV with a peppy turbo-DCT and a premium cabin."
+  },
+  {
+    "make": "Kia", "model": "Sonet", "variant": "GTX+ Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1500000, "mileageKmpl": 18.2,
+    "seating": 5, "safetyRating": 4, "powerBhp": 118, "bootLitres": 385, "year": 2024,
+    "features": ["ADAS", "Bose audio", "Ventilated seats", "Dual 10.25-inch screens"],
+    "summary": "The most feature-dense compact SUV — ADAS, Bose and a punchy turbo."
+  },
+  {
+    "make": "Mahindra", "model": "XUV 3XO", "variant": "AX7L", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1500000, "mileageKmpl": 17.9,
+    "seating": 5, "safetyRating": 5, "powerBhp": 128, "bootLitres": 364, "year": 2024,
+    "features": ["5-star safety", "ADAS Level 2", "Panoramic sunroof", "Harman Kardon audio"],
+    "summary": "5-star compact SUV with Level-2 ADAS and the segment's biggest sunroof."
+  },
+  {
+    "make": "Hyundai", "model": "Creta", "variant": "SX(O) Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 2000000, "mileageKmpl": 17.7,
+    "seating": 5, "safetyRating": 5, "powerBhp": 158, "bootLitres": 433, "year": 2024,
+    "features": ["5-star safety", "ADAS Level 2", "Panoramic sunroof", "Ventilated seats"],
+    "summary": "India's favourite mid-size SUV — balanced, refined and loaded with tech."
+  },
+  {
+    "make": "Kia", "model": "Seltos", "variant": "X-Line Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 2050000, "mileageKmpl": 17.7,
+    "seating": 5, "safetyRating": 3, "powerBhp": 158, "bootLitres": 433, "year": 2024,
+    "features": ["ADAS Level 2", "Bose audio", "Dual 10.25-inch screens", "Ventilated seats"],
+    "summary": "Sporty, tech-forward mid-size SUV with a strong turbo and premium cabin."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Grand Vitara", "variant": "Alpha+ Hybrid", "bodyType": "suv",
+    "fuelType": "hybrid", "transmission": "automatic", "priceInr": 2000000, "mileageKmpl": 27.9,
+    "seating": 5, "safetyRating": 3, "powerBhp": 114, "bootLitres": 373, "year": 2024,
+    "features": ["Strong hybrid", "Panoramic sunroof", "360 camera", "Ventilated seats"],
+    "summary": "Mid-size SUV with a strong hybrid returning nearly 28 km/l — best-in-class economy."
+  },
+  {
+    "make": "Toyota", "model": "Urban Cruiser Hyryder", "variant": "V Hybrid", "bodyType": "suv",
+    "fuelType": "hybrid", "transmission": "automatic", "priceInr": 2050000, "mileageKmpl": 27.9,
+    "seating": 5, "safetyRating": 3, "powerBhp": 114, "bootLitres": 373, "year": 2024,
+    "features": ["Strong hybrid", "Panoramic sunroof", "Ventilated seats", "Toyota warranty"],
+    "summary": "Toyota's hybrid mid-SUV — frugal, reliable and backed by long warranty support."
+  },
+  {
+    "make": "MG", "model": "Hector", "variant": "Sharp Pro", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 2200000, "mileageKmpl": 13.9,
+    "seating": 5, "safetyRating": 4, "powerBhp": 141, "bootLitres": 587, "year": 2024,
+    "features": ["14-inch portrait screen", "ADAS Level 2", "Panoramic sunroof", "Ventilated seats"],
+    "summary": "Big, gadget-heavy SUV with a massive touchscreen and a cavernous cabin."
+  },
+  {
+    "make": "MG", "model": "ZS EV", "variant": "Exclusive", "bodyType": "suv",
+    "fuelType": "electric", "transmission": "automatic", "priceInr": 2400000, "mileageKmpl": 28.0,
+    "seating": 5, "safetyRating": 5, "powerBhp": 174, "bootLitres": 448, "year": 2024,
+    "features": ["461 km range", "5-star safety", "Panoramic sunroof", "Fast charging"],
+    "summary": "Spacious electric SUV with strong range and a 5-star Euro NCAP body."
+  },
+  {
+    "make": "BYD", "model": "Atto 3", "variant": "Superior", "bodyType": "suv",
+    "fuelType": "electric", "transmission": "automatic", "priceInr": 3400000, "mileageKmpl": 26.0,
+    "seating": 5, "safetyRating": 5, "powerBhp": 201, "bootLitres": 440, "year": 2024,
+    "features": ["521 km range", "Blade battery", "5-star safety", "Rotating touchscreen"],
+    "summary": "Long-range electric SUV with a safe blade battery and quick acceleration."
+  },
+  {
+    "make": "Mahindra", "model": "Thar", "variant": "LX 4WD Hard Top", "bodyType": "suv",
+    "fuelType": "diesel", "transmission": "automatic", "priceInr": 1700000, "mileageKmpl": 15.2,
+    "seating": 4, "safetyRating": 4, "powerBhp": 130, "bootLitres": 240, "year": 2024,
+    "features": ["4x4 low range", "4-star safety", "Touchscreen", "Off-road ready"],
+    "summary": "Iconic lifestyle 4x4 — built for trails and weekend adventures, not boot space."
+  },
+  {
+    "make": "Mahindra", "model": "Scorpio N", "variant": "Z8L 4WD", "bodyType": "suv",
+    "fuelType": "diesel", "transmission": "automatic", "priceInr": 2400000, "mileageKmpl": 15.0,
+    "seating": 7, "safetyRating": 5, "powerBhp": 172, "bootLitres": 460, "year": 2024,
+    "features": ["5-star safety", "4x4", "Sony 3D audio", "Sunroof"],
+    "summary": "Butch 7-seat body-on-frame SUV — commanding, 5-star safe and capable off-road."
+  },
+  {
+    "make": "Tata", "model": "Harrier", "variant": "Fearless+ ADAS", "bodyType": "suv",
+    "fuelType": "diesel", "transmission": "automatic", "priceInr": 2600000, "mileageKmpl": 16.8,
+    "seating": 5, "safetyRating": 5, "powerBhp": 168, "bootLitres": 445, "year": 2024,
+    "features": ["5-star safety", "ADAS Level 2", "Panoramic sunroof", "JBL audio"],
+    "summary": "Premium 5-seat SUV with strong road presence, ADAS and a torquey diesel."
+  },
+  {
+    "make": "Mahindra", "model": "XUV700", "variant": "AX7L 7-str", "bodyType": "suv",
+    "fuelType": "diesel", "transmission": "automatic", "priceInr": 2700000, "mileageKmpl": 16.0,
+    "seating": 7, "safetyRating": 5, "powerBhp": 182, "bootLitres": 240, "year": 2024,
+    "features": ["5-star safety", "ADAS Level 2", "Panoramic sunroof", "Sony 3D audio"],
+    "summary": "Feature-packed 7-seat SUV — powerful, 5-star safe and superb value at the top end."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Ertiga", "variant": "ZXI+", "bodyType": "muv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1350000, "mileageKmpl": 20.5,
+    "seating": 7, "safetyRating": 3, "powerBhp": 101, "bootLitres": 209, "year": 2024,
+    "features": ["7 seats", "9-inch touchscreen", "6 airbags", "Rear AC vents"],
+    "summary": "India's value 7-seater — frugal, practical and the default budget family MPV."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "Ertiga", "variant": "ZXI CNG", "bodyType": "muv",
+    "fuelType": "cng", "transmission": "manual", "priceInr": 1300000, "mileageKmpl": 26.1,
+    "seating": 7, "safetyRating": 3, "powerBhp": 86, "bootLitres": 209, "year": 2024,
+    "features": ["Factory CNG", "7 seats", "Touchscreen", "Rear AC vents"],
+    "summary": "Seven seats plus factory CNG — the cheapest way to move a big family around."
+  },
+  {
+    "make": "Maruti Suzuki", "model": "XL6", "variant": "Alpha+", "bodyType": "muv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1550000, "mileageKmpl": 20.3,
+    "seating": 6, "safetyRating": 3, "powerBhp": 101, "bootLitres": 209, "year": 2024,
+    "features": ["6 captain seats", "9-inch touchscreen", "6 airbags", "360 camera"],
+    "summary": "Premium 6-seat MPV with captain chairs — comfortable and easy on fuel."
+  },
+  {
+    "make": "Renault", "model": "Triber", "variant": "RXZ", "bodyType": "muv",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 850000, "mileageKmpl": 19.0,
+    "seating": 7, "safetyRating": 4, "powerBhp": 71, "bootLitres": 84, "year": 2024,
+    "features": ["7 seats", "8-inch touchscreen", "4 airbags", "Modular seating"],
+    "summary": "The most affordable 7-seater on sale — flexible seating in a sub-4m footprint."
+  },
+  {
+    "make": "Kia", "model": "Carens", "variant": "Luxury Plus Turbo", "bodyType": "muv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1900000, "mileageKmpl": 16.5,
+    "seating": 7, "safetyRating": 3, "powerBhp": 158, "bootLitres": 216, "year": 2024,
+    "features": ["7 seats", "ADAS-lite", "Ventilated seats", "Bose audio"],
+    "summary": "Crossover-MPV that drives like an SUV — feature-rich family hauler with a turbo."
+  },
+  {
+    "make": "Toyota", "model": "Innova Crysta", "variant": "ZX Diesel", "bodyType": "muv",
+    "fuelType": "diesel", "transmission": "automatic", "priceInr": 2700000, "mileageKmpl": 14.0,
+    "seating": 7, "safetyRating": 4, "powerBhp": 148, "bootLitres": 300, "year": 2024,
+    "features": ["7 seats", "Captain chairs", "Bulletproof reliability", "Strong resale"],
+    "summary": "The legendary diesel 7-seater — unmatched durability and resale for long-haul families."
+  },
+  {
+    "make": "Toyota", "model": "Innova Hycross", "variant": "ZX(O) Hybrid", "bodyType": "muv",
+    "fuelType": "hybrid", "transmission": "automatic", "priceInr": 3200000, "mileageKmpl": 23.2,
+    "seating": 7, "safetyRating": 5, "powerBhp": 184, "bootLitres": 300, "year": 2024,
+    "features": ["Strong hybrid", "5-star safety", "ADAS Level 2", "Ottoman captain seats"],
+    "summary": "Premium hybrid 7-seater — limousine-like comfort with 23 km/l economy and ADAS."
+  },
+  {
+    "make": "Hyundai", "model": "Alcazar", "variant": "Signature Turbo", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 2100000, "mileageKmpl": 17.0,
+    "seating": 7, "safetyRating": 5, "powerBhp": 158, "bootLitres": 180, "year": 2024,
+    "features": ["7 seats", "5-star safety", "ADAS Level 2", "Panoramic sunroof"],
+    "summary": "Three-row version of the Creta — premium 7-seat SUV with ADAS and 5-star safety."
+  },
+  {
+    "make": "Tata", "model": "Curvv", "variant": "Accomplished+ S", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "automatic", "priceInr": 1900000, "mileageKmpl": 17.8,
+    "seating": 5, "safetyRating": 5, "powerBhp": 123, "bootLitres": 500, "year": 2024,
+    "features": ["5-star safety", "SUV-coupe design", "ADAS Level 2", "Panoramic sunroof"],
+    "summary": "SUV-coupe with a big boot and 5-star safety — style without losing practicality."
+  },
+  {
+    "make": "Citroen", "model": "C3 Aircross", "variant": "Max 7-str", "bodyType": "suv",
+    "fuelType": "petrol", "transmission": "manual", "priceInr": 1300000, "mileageKmpl": 18.5,
+    "seating": 7, "safetyRating": 3, "powerBhp": 109, "bootLitres": 444, "year": 2024,
+    "features": ["7 seats", "10.2-inch touchscreen", "European build", "High clearance"],
+    "summary": "Affordable 7-seat SUV with French ride comfort and a roomy, airy cabin."
+  }
+]

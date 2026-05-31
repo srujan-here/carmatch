@@ -1,0 +1,50 @@
+// Prisma schema — SQLite dialect everywhere.
+// Local dev: a single ./prisma/dev.db file.
+// Production (Vercel): Turso / libSQL via the @prisma/adapter-libsql driver adapter.
+// The schema and queries are identical across both.
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// A single car variant in the catalog. The catalog is read-mostly (seeded once).
+model Car {
+  id           String   @id @default(cuid())
+  make         String
+  model        String
+  variant      String
+  bodyType     String // hatchback | sedan | suv | muv
+  fuelType     String // petrol | diesel | cng | electric | hybrid
+  transmission String // manual | automatic
+  priceInr     Int // ex-showroom, INR
+  mileageKmpl  Float // km/l (or equivalent for EV)
+  seating      Int
+  safetyRating Float // Global NCAP stars, 0-5
+  powerBhp     Float
+  bootLitres   Int
+  year         Int
+  features     String // JSON-encoded string[] (SQLite has no array type)
+  summary      String
+  imageUrl     String?
+
+  @@index([bodyType])
+  @@index([fuelType])
+  @@index([priceInr])
+}
+
+// One buyer search. Stores the structured preferences, optional free-text, and a
+// snapshot of the ranked results so the shortlist is persisted and shareable by URL.
+model RecommendationSession {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  preferences String // JSON-encoded Preferences
+  freeText    String?
+  results     String // JSON-encoded ScoredCar[] snapshot (ids + scores + reasons)
+  aiEnhanced  Boolean  @default(false)
+}
